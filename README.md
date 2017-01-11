@@ -3,7 +3,7 @@ Comparse – Monadic Parsing Library
 
 _Comparse_ is a functional parsing library written in CoffeeScript. It
 is inspired by Haskell monadic parsers
-[Parsec](http://legacy.cs.uu.nl/daan/parsec.html) or
+[Parsec](https://wiki.haskell.org/Parsec) or
 [attoparsec](https://github.com/bos/attoparsec "attoparsec").
 
 License
