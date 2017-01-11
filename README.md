@@ -39,13 +39,13 @@ Resources
 ---------
 
 For documentation, see the project
-[wiki page](https://gitlab.labs.nic.cz/llhotka/comparse/wikis/home).
+[wiki page](https://github.com/llhotka/comparse/wiki).
 
 The `examples` subdirectory contains examples of simple parsers
 written in [Literate CoffeeScript](http://coffeescript.org/#literate "Literate
 Coffeescript"). They can be run using the `coffee` interpreter,
-formatted versions are [here](https://gitlab.labs.nic.cz/llhotka/comparse/wikis/examples).
+formatted versions are [here](https://github.com/llhotka/comparse/wiki/examples).
 
 The _Comparse_ library itself is written in Literate CoffeeScript,
 here is the
-[annotated source code](https://gitlab.labs.nic.cz/llhotka/comparse/wikis/comparse).
+[annotated source code](https://github.com/llhotka/comparse/wiki/comparse).
